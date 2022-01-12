@@ -8,7 +8,7 @@ const second = () => {
 				<div className="col-md-6 ">
                     <h2 className='radiohead'> Why radiohead? </h2>
                     <h3 className='world'> 
-                        <img src={Rectangle} className='rectangle'  alt="https/rrr/" /> A world of music in your pocket.
+                        <img src={Rectangle} className='rectangle'  alt="" /> A world of music in your pocket.
                     </h3>
                     <p className='world33'>
                          Find new loves and old favourites from over 56 <br/> million tracks.

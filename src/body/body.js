@@ -32,12 +32,12 @@ const body = () => {
                 </div>
            </div>
             <div className='col-md-7 hide' >
-                <img alt="https/rrr/" src={Image1} style={{ borderRadius:"5px" }} className='image1'/>
-                <img alt="https/rrr/" src={Image2}  className='image2' />
-                <img alt="https/rrr/" src={Image3}  className='image3' />
-                <img alt="https/rrr/" src={Image4}  className='image4' />
-                <img alt="https/rrr/" src={Image5}  className='image5' />
-                <img alt="https/rrr/" src={Image6}  className='image6' />
+                <img alt="" src={Image1} style={{ borderRadius:"5px" }} className='image1'/>
+                <img alt="" src={Image2}  className='image2' />
+                <img alt="" src={Image3}  className='image3' />
+                <img alt="" src={Image4}  className='image4' />
+                <img alt="" src={Image5}  className='image5' />
+                <img alt="" src={Image6}  className='image6' />
             </div>
         </div>
 

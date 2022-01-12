@@ -7,9 +7,9 @@ const buttom = () => {
     <div className='container-fluid' >
         <div className='row'>
             <div className='buttom text-center'>
-                <img alt="https/rrr/" src={shape4} className='buttom2' />
-                <img alt="https/rrr/" src={path4} className='buttom3' />
-                <img alt="https/rrr/" src={path} className='buttom1' />
+                <img alt="" src={shape4} className='buttom2' />
+                <img alt="" src={path4} className='buttom3' />
+                <img alt="" src={path} className='buttom1' />
             </div>
         </div>
     </div>

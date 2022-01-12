@@ -8,7 +8,7 @@ const footer = () => {
             <a href="/" className="d-flex align-items-center mb-3 link-dark text-decoration-none">
             
             </a>
-            <p className="text-muted"><img src={shape} alt="https/rrr/" /></p>
+            <p className="text-muted"><img src={shape} alt="" /></p>
             <small className='smalls '>Copy
                    Radiohead is the first global music<br/> streaming service with high fidelity sound, <br/> hi-def video quality, along with expertly curated <br/> playlists and original content<br/>  making it a trusted source for music and culture.
             </small>
