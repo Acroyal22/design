@@ -5,7 +5,7 @@ import eminem from "../image/eminem.svg"
 import smoke from "../image/smoke.svg"
 import starboy from "../image/starboy.svg"
 import susam from "../image/susam.svg"
-import Path from "../image/Path.svg"
+
 const part = () => {
   return (
     <div className='container-fluid part animate__animated animate__fadeInUpBig animate__slower	3s'>
