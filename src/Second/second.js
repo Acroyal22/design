@@ -17,7 +17,7 @@ const second = () => {
                        
                     
                     <h2 className='deezer'> 
-                      <img src={Rectangle} className='rectangle'/>   Craft your collection. 
+                      <img src={Rectangle} className='rectangle' alt=""/>   Craft your collection. 
                     </h2>
                     <h3 className='premium'>
                     Create playlists from millions of tracks and take<br/> them with you wherever you go.
@@ -25,7 +25,7 @@ const second = () => {
                 </div>
 				<div className="col-md-6">
                     <h3 className='world2'> 
-                        <img src={Rectangle} className='rectangle' />   Made for you. 
+                        <img src={Rectangle} className='rectangle' alt="" />   Made for you. 
                     </h3>
                     <p className='world3'>
                     Flow gets to know what you like and what you don't.<br/> Discover your personal soundtrack..
@@ -34,7 +34,7 @@ const second = () => {
                       
                     
                     <h2 className='deezers'> 
-                      <img src={Rectangle} className='rectangle'/>  Why wifi? No problem 
+                      <img src={Rectangle} className='rectangle' alt=""/>  Why wifi? No problem 
                     </h2>
                     <h3 className='premiums'>
                         With Deezer Premium, you don't need to be <br/>

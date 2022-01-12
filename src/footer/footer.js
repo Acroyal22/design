@@ -19,37 +19,37 @@ const footer = () => {
              
                
                 <ul className="nav flex-column ">
-                    <li className="nav-item mb-2 "><a href="#" className="nav-link p-0 text-muted " ><p style={{ color:"white", fontSize:"16px"  }}> Started</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"  }}>Playlist Import </p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Supported Devices</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"  }}>Get Support</p></a></li>
+                    <li className="nav-item mb-2 "><a href="https://github.com/" className="nav-link p-0 text-muted " ><p style={{ color:"white", fontSize:"16px"  }}> Started</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"  }}>Playlist Import </p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Supported Devices</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"  }}>Get Support</p></a></li>
                 </ul>
               
             </div>
             <div className="col-md-2  section2">
                 <h5>Discover</h5>
                 <ul className="nav flex-column">
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>About</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px" }}>Magazine</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>About</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px" }}>Magazine</p></a></li>
                 </ul>
             </div>
             <div className="col-md-2  section3">
                 <h5>Account</h5>
                 <ul className="nav flex-column">
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Sign Up</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Redeem Voucher</p></a></li>
-                    <li className="nav-item mb-2 "><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Redeem Giftcard</p></a></li>
-                    <li className="nav-item mb-2 "><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Manage Account</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Store</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Sign Up</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Redeem Voucher</p></a></li>
+                    <li className="nav-item mb-2 "><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Redeem Giftcard</p></a></li>
+                    <li className="nav-item mb-2 "><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"  }}>Manage Account</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Store</p></a></li>
                 </ul>
             </div>
             <div className="col-md-2  section4">
                 <h5>Company</h5>
                 <ul className="nav flex-column ">
-                    <li className="nav-item mb-2 "><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"}}>Partners</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"}}>Features</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px" }}>Carreers</p></a></li>
-                    <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Price</p></a></li>
+                    <li className="nav-item mb-2 "><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px"}}>Partners</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px"}}>Features</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white", fontSize:"16px" }}>Carreers</p></a></li>
+                    <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"16px" }}>Price</p></a></li>
                 </ul>
             </div>
         </footer>
