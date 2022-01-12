@@ -1,7 +1,6 @@
 import React from "react";
 import play1 from "../image/play1.svg"
 import play2 from "../image/play2.svg"
-import Path from "../image/Path.svg"
 const play = () => {
 	return (
 		<div className="container-fluid play animate__animated animate__fadeInUpBigv animate__slower	3s">
