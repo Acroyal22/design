@@ -26,8 +26,8 @@ const body = () => {
                    <button type="button" className="try trys">Try for free</button> 
                 </div>
                 <div >
-                <img alt="" className="google googles " src={Google} alt=""/>
-                    <img alt="" className="apple  apples"  src={Apple} alt="" />
+                <img  className="google googles " src={Google} alt=""/>
+                    <img  className="apple  apples"  src={Apple} alt="" />
                     
                 </div>
            </div>

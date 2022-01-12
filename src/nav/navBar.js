@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import shape from "../image/Shape.svg"
-import {Navbar,Container,Nav,Button} from "react-bootstrap"
+import {Navbar,Container,Nav} from "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
 function navBar() {
   return (
@@ -32,8 +32,8 @@ function navBar() {
 //   </div>
 <Navbar collapseOnSelect expand="lg"  variant="white"  style={{backgroundColor:"#293942"}}>
   <Container >
-  <Navbar.Brand href="#home"><a className="navbar-brand" style={{ marginLeft:"19%" }} >
-         <img alt="" src={shape} alt="" />
+  <Navbar.Brand href="https://github.com/"><a className="navbar-brand" style={{ marginLeft:"19%" }} >
+         <img alt="" src={shape} />
       </a></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" style={{ backgroundColor:'white'}}  />
   <Navbar.Collapse id="responsive-navbar-nav" >
