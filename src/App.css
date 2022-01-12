@@ -1,9 +1,9 @@
 .contact {
-	margin-left: 380px;
+	margin-left: 360px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 15px;
 	letter-spacing: 0.218182px;
 	color: #f9f8ff;
@@ -17,7 +17,7 @@
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 36px;
 	/* identical to box height */
 
@@ -32,7 +32,7 @@
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 36px;
 	/* identical to box height */
 
@@ -117,7 +117,7 @@ margin-top: 10px;
   margin-left:32px;
   margin-top: -80px;
 }
-.image1 {
+/* .image1 {
 	width: 232px;
 	height: 502.36px;
 	top: 19.01px;
@@ -128,8 +128,8 @@ margin-top: 10px;
 	height: 502.36px;
 	top: -23.31px;
 	transform: rotate(30deg);
-}
-.image3 {
+} */
+/* .image3 {
 	left: 1853.9px;
 	transform: rotate(30deg);
 }
@@ -150,7 +150,7 @@ margin-top: 10px;
 	height: 502.36px;
 	margin-top: -236.77px;
 	transform: rotate(30deg);
-}
+} */
 /* body end */
 .middle {
 	margin-top: -0px;
@@ -171,20 +171,25 @@ margin-top: 10px;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	width: 150px;
-	height: 150px;
+	height: 160px;
 	left: 200px;
 	top: 1221px;
+  padding: 5px;
+  transition: transform .2s;
 }
 .drake {
+  padding: 5px;
 	margin-top: 40px;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	width: 150px;
 	height: 160px;
 	left: 480px;
+  transition: transform .2s;
 	top: 1221px;
 }
 .susam {
+  padding: 5px;
 	margin-top: 40px;
 	margin-right: 10px;
 	margin-bottom: 10px;
@@ -192,8 +197,10 @@ margin-top: 10px;
 	height: 160px;
 	left: 760px;
 	top: 1221px;
+  transition: transform .2s;
 }
 .eminem {
+  padding: 5px;
 	margin-left: 190px;
 	margin-right: 10px;
 	margin-bottom: 20px;
@@ -201,22 +208,27 @@ margin-top: 10px;
 	height: 160px;
 	left: 200px;
 	top: 1501px;
+  transition: transform .2s;
 }
 .smoke {
+  padding: 5px;
 	margin-right: 10px;
 	margin-bottom: 20px;
 	width: 150px;
 	height: 160px;
 	left: 200px;
 	top: 1501px;
+  transition: transform .2s;
 }
 .last {
+  padding: 5px;
 	margin-right: 10px;
 	margin-bottom: 20px;
 	width: 150px;
 	height: 160px;
 	left: 200px;
 	top: 1501px;
+  transition: transform .2s;
 }
 .station {
 	width: 172.44px;
@@ -330,7 +342,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 500;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 25px;
 
 	color: rgba(249, 248, 255, 0.5);
@@ -360,12 +372,14 @@ margin-top: 10px;
 	left: 1029px;
 	top: 1911px;
 	margin-top: 60px;
+  transition: transform .2s;
 }
 .two {
 	width: 196px;
 	height: 293px;
 	left: 1029px;
 	top: 1911px;
+  transition: transform .2s;
 	margin-top: 60px;
 }
 .second {
@@ -399,7 +413,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 20px;
+	font-size: 24px;
 	line-height: 48px;
 	color: #f9f8ff;
 	margin-top: 30px;
@@ -413,7 +427,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 22px;
+	font-size: 24px;
 	line-height: 18px;
 	color: #f9f8ff;
 }
@@ -427,7 +441,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 17px;
+	font-size: 20px;
 	line-height: 20px;
 	color: rgba(249, 248, 255, 0.5);
 }
@@ -440,7 +454,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 20px;
+	font-size: 24px;
 	line-height: 48px;
 	color: #f9f8ff;
 }
@@ -452,7 +466,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 17px;
+	font-size: 20px;
 	line-height: 28px;
 	color: rgba(249, 248, 255, 0.5);
 	margin-left: 180px;
@@ -466,7 +480,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 17px;
+	font-size: 20px;
 	line-height: 28px;
 	color: rgba(249, 248, 255, 0.5);
 	margin-left: 80px;
@@ -493,7 +507,7 @@ margin-top: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
-	font-size: 17px;
+	font-size: 20px;
 	line-height: 28px;
 	color: rgba(249, 248, 255, 0.5);
 	margin-left: 180px;
@@ -726,7 +740,7 @@ margin-top: 10px;
 }
 
 
-@media screen and (min-width: 701px) and (max-width:2000px) {
+@media screen and (min-width: 1500px) and (max-width:2000px) {
   .signIn {
     margin-left: 10px;
     color: #f4eeff;
@@ -1430,14 +1444,7 @@ margin-top: 10px;
 	transform: rotate(0) scale(1);
 } */
 img:hover {
-	opacity: 0.3;
-	filter: alpha(opacity=30);
-	-webkit-transform: rotate(0) scale(1);
-	transform: rotate(0) scale(1);
-	webkit-transform: rotate(15deg) scale(1.4);
-	transform: rotate(15deg) scale(1.4);
-	-webkit-transition: 0.3s ease-in-out;
-	transition: 0.3s ease-in-out;
+  transform: scale(1.5);
 }
 
 
