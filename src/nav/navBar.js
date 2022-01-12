@@ -32,7 +32,7 @@ function navBar() {
 //   </div>
 <Navbar collapseOnSelect expand="lg"  variant="white"  style={{backgroundColor:"#293942"}}>
   <Container >
-  <Navbar.Brand href="https://github.com/"><a className="navbar-brand" style={{ marginLeft:"19%" }} >
+  <Navbar.Brand href="https://github.com"> <a className="navbar-brand" href='https://github.com' style={{ marginLeft:"19%" }} >
          <img alt="" src={shape} />
       </a></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" style={{ backgroundColor:'white'}}  />
