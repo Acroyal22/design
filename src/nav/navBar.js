@@ -10,7 +10,7 @@ function navBar() {
    
 
 //       <a className="navbar-brand" style={{ marginLeft:"10%" }} >
-//         <img src={shape} alt="" />
+//         <img alt="https/rrr/" src={shape} alt="" />
 //       </a>
 
 // <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +33,7 @@ function navBar() {
 <Navbar collapseOnSelect expand="lg"  variant="white"  style={{backgroundColor:"#293942"}}>
   <Container >
   <Navbar.Brand href="#home"><a className="navbar-brand" style={{ marginLeft:"19%" }} >
-         <img src={shape} alt="" />
+         <img alt="https/rrr/" src={shape} alt="" />
       </a></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" style={{ backgroundColor:'white'}}  />
   <Navbar.Collapse id="responsive-navbar-nav" >

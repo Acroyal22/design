@@ -11,12 +11,12 @@ const part = () => {
     <div className='container-fluid part animate__animated animate__fadeInUpBig animate__slower	3s'>
       <div className='row'>
           <div className='col-md-6 hide reveal' >
-          <img src={starboy} className='starboy'style={{ borderRadius:"10px" }} />
-          <img src={drake} className='drake' style={{ borderRadius:"10px" }}/>
-          <img src={susam} className='susam'style={{ borderRadius:"10px" }} />
-          <img src={eminem} className='eminem'style={{ borderRadius:"10px" }} />
-          <img src={smoke} className='smoke' style={{ borderRadius:"10px" }}/>
-          <img src={Last} className='last' style={{ borderRadius:"10px" }}/>
+          <img alt="https/rrr/" src={starboy} className='starboy'style={{ borderRadius:"10px" }} />
+          <img alt="https/rrr/" src={drake} className='drake' style={{ borderRadius:"10px" }}/>
+          <img alt="https/rrr/" src={susam} className='susam'style={{ borderRadius:"10px" }} />
+          <img alt="https/rrr/" src={eminem} className='eminem'style={{ borderRadius:"10px" }} />
+          <img alt="https/rrr/" src={smoke} className='smoke' style={{ borderRadius:"10px" }}/>
+          <img alt="https/rrr/" src={Last} className='last' style={{ borderRadius:"10px" }}/>
           </div>
           <div className='col-md-6 reveal'>
             <h1 className='music'>The music you love</h1>
