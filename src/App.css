@@ -1,5 +1,5 @@
 .contact {
-	margin-left: 360px;
+	margin-left: 300px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 600;
@@ -41,7 +41,7 @@
 	color: #f9f8ff;
 }
 .signIn {
-	margin-left: -20px;
+	margin-left: 20px;
 	color: #f4eeff;
 	background: #7971e9;
 	border-radius: 4px;
@@ -82,7 +82,7 @@
 	line-height: 72px;
 	color: #f9f8ff;
 	margin-top: 10rem;
-	margin-left: 6%;
+	margin-left: 70px;
 }
 .heading {
 	margin-left: 100px;
@@ -99,7 +99,7 @@
 	line-height: 24px;
 	text-align: center;
 	width: 200px;
-	margin-left: 22%;
+	margin-left: 32%;
 }
 /* try end */
 /* google */
@@ -107,14 +107,16 @@
 	width: 300px;
 	height: 50px;
   margin-top: 50px;
-margin-left: 150px;
+margin-left: 210px;
 margin-top: 10px;
+padding-bottom: 10px;
 }
 .apple {
+  padding-bottom: 10px;
 	width: 300px;
 	height: 110px;
   margin-top: -110px;
-  margin-left:32px;
+  margin-left:75px;
   margin-top: -80px;
 }
 /* .image1 {
@@ -170,8 +172,8 @@ margin-top: 10px;
 	margin-left: 190px;
 	margin-right: 10px;
 	margin-bottom: 10px;
-	width: 150px;
-	height: 160px;
+	width: 130px;
+	height: 130px;
 	left: 200px;
 	top: 1221px;
   padding: 5px;
@@ -182,8 +184,8 @@ margin-top: 10px;
 	margin-top: 40px;
 	margin-right: 10px;
 	margin-bottom: 10px;
-	width: 150px;
-	height: 160px;
+  width: 130px;
+	height: 130px;
 	left: 480px;
   transition: transform .2s;
 	top: 1221px;
@@ -193,8 +195,8 @@ margin-top: 10px;
 	margin-top: 40px;
 	margin-right: 10px;
 	margin-bottom: 10px;
-	width: 150px;
-	height: 160px;
+	width: 130px;
+	height: 130px;
 	left: 760px;
 	top: 1221px;
   transition: transform .2s;
@@ -204,8 +206,8 @@ margin-top: 10px;
 	margin-left: 190px;
 	margin-right: 10px;
 	margin-bottom: 20px;
-	width: 150px;
-	height: 160px;
+  width: 130px;
+	height: 130px;
 	left: 200px;
 	top: 1501px;
   transition: transform .2s;
@@ -214,8 +216,8 @@ margin-top: 10px;
   padding: 5px;
 	margin-right: 10px;
 	margin-bottom: 20px;
-	width: 150px;
-	height: 160px;
+	width: 130px;
+	height: 130px;
 	left: 200px;
 	top: 1501px;
   transition: transform .2s;
@@ -224,8 +226,8 @@ margin-top: 10px;
   padding: 5px;
 	margin-right: 10px;
 	margin-bottom: 20px;
-	width: 150px;
-	height: 160px;
+	width: 130px;
+	height: 130px;
 	left: 200px;
 	top: 1501px;
   transition: transform .2s;
@@ -872,8 +874,8 @@ and (max-width: 1605px)
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     left: 200px;
     top: 1221px;
   }
@@ -881,8 +883,8 @@ and (max-width: 1605px)
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     left: 480px;
     top: 1221px;
   }
@@ -890,8 +892,8 @@ and (max-width: 1605px)
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     left: 760px;
     top: 1221px;
   }
@@ -899,24 +901,24 @@ and (max-width: 1605px)
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
 
     top: 1501px;
   }
   .smoke {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     left: 200px;
     top: 1501px;
   }
   .last {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     left: 120px;
     top: 1501px;
   }
