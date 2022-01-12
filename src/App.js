@@ -10,7 +10,7 @@ import Buttom from "../src/buttom/buttom"
 
 function App() {
   return (
-    <div style={{ overflowX:"hidden" }}>
+    <div style={{ overflowX:"hidden !important" }}>
      <NavBar/>
      <Body/>
     <Middle/>
