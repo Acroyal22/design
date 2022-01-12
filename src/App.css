@@ -726,7 +726,7 @@ margin-top: 10px;
 }
 
 
-@media only screen and (min-width: 701px) {
+@media screen and (min-width: 701px) and (max-width:2000px) {
   .signIn {
     margin-left: 10px;
     color: #f4eeff;
@@ -736,7 +736,7 @@ margin-top: 10px;
     box-sizing: border-box;
   }
   .contact {
-    margin-left: 350px;
+    margin-left: 250px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
@@ -789,10 +789,10 @@ margin-top: 10px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 72px;
     color: #f9f8ff;
-    margin-top: 10rem;
+    margin-top: 7rem;
     margin-left: 20%;
   }
   .heading {
@@ -822,13 +822,13 @@ margin-top: 10px;
   margin-top: 10px;
   }
   .radio{
-    margin-left: 45px;
+    margin-left: 20px;
   }
   .apple {
     width: 300px;
     height: 110px;
     margin-top: -110px;
-    margin-left:92px;
+    margin-left:75px;
     margin-top: -80px;
   }
   .image1 {
@@ -884,8 +884,8 @@ margin-top: 10px;
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 130px;
-    height: 130px;
+    width: 100px;
+    height: 110px;
     left: 200px;
     top: 1221px;
   }
@@ -893,8 +893,8 @@ margin-top: 10px;
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 130px;
-    height: 140px;
+    width: 100px;
+    height: 110px;
     left: 480px;
     top: 1221px;
   }
@@ -902,8 +902,8 @@ margin-top: 10px;
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 130px;
-    height: 140px;
+    width: 100px;
+    height: 110px;
     left: 760px;
     top: 1221px;
   }
@@ -911,24 +911,24 @@ margin-top: 10px;
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 130px;
-    height: 140px;
+    width: 100px;
+    height: 110px;
     left: 200px;
     top: 1501px;
   }
   .smoke {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 130px;
-    height: 140px;
+    width: 100px;
+    height: 110px;
     left: 200px;
     top: 1501px;
   }
   .last {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 130px;
-    height: 140px;
+    width: 100px;
+    height: 110px;
     left: 120px;
     top: 1501px;
   }
@@ -1031,7 +1031,7 @@ margin-top: 10px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 38px;
+    font-size: 30px;
     line-height: 52px;
   
     color: #f9f8ff;
@@ -1044,7 +1044,7 @@ margin-top: 10px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 13px;
     line-height: 25px;
   
     color: rgba(249, 248, 255, 0.5);
@@ -1069,15 +1069,15 @@ margin-top: 10px;
     color: #7971e9;
   }
   .one {
-    width: 196px;
-    height: 293px;
+    width: 186px;
+    height: 273px;
     left: 1029px;
     top: 1911px;
     margin-top: 60px;
   }
   .two {
-    width: 196px;
-    height: 293px;
+    width: 186px;
+    height: 273px;
     left: 1029px;
     top: 1911px;
     margin-top: 60px;
