@@ -14,6 +14,7 @@ const part = () => {
           <img alt="" src={starboy} className='starboy'style={{ borderRadius:"10px" }} />
           <img alt="" src={drake} className='drake' style={{ borderRadius:"10px" }}/>
           <img alt="" src={susam} className='susam'style={{ borderRadius:"10px" }} />
+          <br/>
           <img alt="" src={eminem} className='eminem'style={{ borderRadius:"10px" }} />
           <img alt="" src={smoke} className='smoke' style={{ borderRadius:"10px" }}/>
           <img alt="" src={Last} className='last' style={{ borderRadius:"10px" }}/>

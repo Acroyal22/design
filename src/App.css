@@ -740,9 +740,9 @@ margin-top: 10px;
 }
 
 
-@media screen and (min-width: 1500px) and (max-width:2000px) {
+@media screen and (min-width: 1500px) {
   .signIn {
-    margin-left: 10px;
+    margin-left: 70px;
     color: #f4eeff;
     background: #7971e9;
     border-radius: 4px;
@@ -750,7 +750,7 @@ margin-top: 10px;
     box-sizing: border-box;
   }
   .contact {
-    margin-left: 250px;
+    margin-left: 650px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
@@ -824,7 +824,7 @@ margin-top: 10px;
     line-height: 24px;
     text-align: center;
     width: 200px;
-    margin-left: 36%;
+    margin-left: 29%;
   }
   /* try end */
   /* google */
@@ -832,53 +832,21 @@ margin-top: 10px;
     width: 300px;
     height: 50px;
     margin-top: 50px;
-  margin-left: 220px;
+  margin-left: 250px;
   margin-top: 10px;
   }
   .radio{
-    margin-left: 20px;
+    margin-left: -80px;
   }
   .apple {
     width: 300px;
     height: 110px;
     margin-top: -110px;
-    margin-left:75px;
+    margin-left:125px;
     margin-top: -80px;
   }
-  .image1 {
-    width: 232px;
-    height: 402.36px;
-    top: 19.01px;
-    transform: rotate(30deg);
-  }
-  .image2 {
-    width: 232px;
-    height: 402.36px;
-    top: -23.31px;
-    transform: rotate(30deg);
-  }
-  .image3 {
-    left: 1853.9px;
-    transform: rotate(30deg);
-  }
-  .image4 {
-    width: 232px;
-    height: 402.36px;
-    margin-top: -523.65px;
-    transform: rotate(30deg);
-  }
-  .image5 {
-    width: 232px;
-    height: 402.36px;
-    margin-top: -482.45px;
-    transform: rotate(30deg);
-  }
-  .image6 {
-    width: 232px;
-    height: 402.36px;
-    margin-top: -236.77px;
-    transform: rotate(30deg);
-  }
+  
+
   /* body end */
   .middle {
     margin-top: -0px;
@@ -898,8 +866,8 @@ margin-top: 10px;
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 100px;
-    height: 110px;
+    width: 170px;
+    height: 170px;
     left: 200px;
     top: 1221px;
   }
@@ -907,8 +875,8 @@ margin-top: 10px;
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 100px;
-    height: 110px;
+    width: 170px;
+    height: 170px;
     left: 480px;
     top: 1221px;
   }
@@ -916,8 +884,8 @@ margin-top: 10px;
     margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 100px;
-    height: 110px;
+    width: 170px;
+    height: 170px;
     left: 760px;
     top: 1221px;
   }
@@ -925,24 +893,24 @@ margin-top: 10px;
     margin-left: 190px;
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 100px;
-    height: 110px;
-    left: 200px;
+    width: 170px;
+    height: 170px;
+
     top: 1501px;
   }
   .smoke {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 100px;
-    height: 110px;
+    width: 170px;
+    height: 170px;
     left: 200px;
     top: 1501px;
   }
   .last {
     margin-right: 10px;
     margin-bottom: 20px;
-    width: 100px;
-    height: 110px;
+    width: 170px;
+    height: 170px;
     left: 120px;
     top: 1501px;
   }
