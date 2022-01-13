@@ -5,7 +5,7 @@ const play = () => {
 	return (
 		<div className="container-fluid play animate__animated animate__fadeInUpBigv animate__slower	3s">
 			<div className="row">
-				<div className="col-md-6">
+				<div className="col-md-7">
                     <h2 className="hand" > Hand-picked playlists </h2>
                     <small className="stream">
                         Stream guest playlists curated by the artists you love. <br/>
@@ -20,7 +20,7 @@ const play = () => {
                         Discover Radioheat.
                     </h6>
                 </div>
-				<div className="col-md-6 hide">
+				<div className="col-md-5 hide">
                     <img  src={ play1} className="one" style={{ borderRadius:"35px" }} alt="" />
                     <img  src={ play2} className="two" style={{ borderRadius:"35px" }} alt=""/>
                 </div>

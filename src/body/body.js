@@ -12,11 +12,10 @@ const body = () => {
     }}>
         <div className='row'>
             <div className='col-md-5'>
-                <div className='heading'>
+                <div className=''>
                     <h2  className='discover animate__animated animate__fadeInUpBig animate__slower	3s' >
-                        Discover, search and<br/> 
-                        play any song featuring <br/>
-                        voice control.
+                        Discover, search and
+                        play any song featuring voice control.
                     </h2>
                 </div>
                 <div className='mobile-try-btn'>

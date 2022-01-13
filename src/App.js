@@ -10,7 +10,7 @@ import Buttom from "../src/buttom/buttom"
 
 function App() {
   return (
-    <div style={{ overflowX:"hidden !important" }}>
+    <div style={{ overflowX:"hidden !important" }} className="col-xl-12 " >
      <NavBar/>
      <Body/>
     <Middle/>

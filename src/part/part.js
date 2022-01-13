@@ -10,7 +10,7 @@ const part = () => {
   return (
     <div className='container-fluid part animate__animated animate__fadeInUpBig animate__slower	3s'>
       <div className='row'>
-          <div className='col-md-6 hide reveal' >
+          <div className='col-md-7 hide reveal' >
           <img alt="" src={starboy} className='starboy'style={{ borderRadius:"10px" }} />
           <img alt="" src={drake} className='drake' style={{ borderRadius:"10px" }}/>
           <img alt="" src={susam} className='susam'style={{ borderRadius:"10px" }} />
@@ -19,7 +19,7 @@ const part = () => {
           <img alt="" src={smoke} className='smoke' style={{ borderRadius:"10px" }}/>
           <img alt="" src={Last} className='last' style={{ borderRadius:"10px" }}/>
           </div>
-          <div className='col-md-6 reveal'>
+          <div className='col-md-5 reveal'>
             <h1 className='music'>The music you love</h1>
             <br/>
             <small className='small'>
