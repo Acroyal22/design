@@ -3,13 +3,13 @@ import play1 from "../image/play1.svg"
 import play2 from "../image/play2.svg"
 const play = () => {
 	return (
-		<div className="container-fluid play animate__animated animate__fadeInUpBigv animate__slower	3s">
+		<div className=" container-fluid play animate__animated animate__fadeInUpBigv animate__slower	3s" style={{ marginTop:"-5px",height:"60vh" }}>
 			<div className="row">
 				<div className="col-md-7">
-                    <h2 className="hand" > Hand-picked playlists </h2>
-                    <small className="stream">
+                    <h2 className="hand hands" > Hand-picked playlists </h2>
+                    <small className="stream streams ">
                         Stream guest playlists curated by the artists you love. <br/>
-                        <p className="stream"> Also, check out our original playlists.</p>  
+                        <p className="stream streams2"> Also, check out our original playlists.</p>  
                         <p className="streams">hand-picked by our team of experts.</p>
                     </small>
                     <h6 className="discovers cursor">

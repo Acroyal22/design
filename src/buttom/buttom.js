@@ -4,7 +4,7 @@ import path4 from "../image/path4.svg"
 import shape4 from "../image/instagram.png"
 const buttom = () => {
   return (
-    <div className='container-fluid' >
+    <div className='container-fluid reveal' >
         <div className='row'>
             <div className='buttom text-center'>
                 <img alt="" src={shape4} className='buttom2' />

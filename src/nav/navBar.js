@@ -32,10 +32,11 @@ function navBar() {
 //   </div>
 <Navbar collapseOnSelect expand="lg"  variant="white"  style={{backgroundColor:"#293942"}}>
   <Container >
-  <Navbar.Brand href="https://github.com"> 
-         <img alt="" src={shape} className='radio radios' />
+  <div className='col-md-1'></div>
+  <Navbar.Brand href="https://github.com" > 
+         <img alt="" src={shape} className='head' />
       </Navbar.Brand>
-  <Navbar.Toggle aria-controls="responsive-navbar-nav" style={{ backgroundColor:'white'}}  />
+  <Navbar.Toggle aria-controls="responsive-navbar-nav" className='navbar-toggler ' style={{ backgroundColor:'white'}}  />
   <Navbar.Collapse id="responsive-navbar-nav" >
     <Nav className="me-auto d-flex">
       <Nav.Link href="#features" className=" contact">Contact</Nav.Link>
@@ -44,6 +45,7 @@ function navBar() {
     </Nav>
     <Nav>
     <Nav.Link href="#memes">
+        
       <button type="button" className="btn btn   signIn" >Sign In</button>
       </Nav.Link>
       <Nav.Link href="#memes">
@@ -51,6 +53,7 @@ function navBar() {
       </Nav.Link>
     </Nav>
   </Navbar.Collapse>
+  
   </Container>
 </Navbar>
   );

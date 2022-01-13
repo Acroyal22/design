@@ -8,11 +8,12 @@ const body = () => {
   return (
     <div className='body container-fluid' style={{ backgroundImage: `url(${Bg_cover})`,
     width: '100vw',
-    height: '80vh'
+    height: '50vh'
     }}>
         <div className='row'>
-            <div className='col-md-5'>
-                <div className=''>
+            <div className='col-md-2'></div>
+            <div className='col-md-4'>
+                <div className='discover'>
                     <h2  className='discover animate__animated animate__fadeInUpBig animate__slower	3s' >
                         Discover, search and
                         play any song featuring voice control.
@@ -21,11 +22,11 @@ const body = () => {
                 <div className='mobile-try-btn'>
                    <button type="button" className="try trys">Try for free</button> 
                 </div>
-                <div>
+               
                 <img  className="google googles " src={Google} alt=""/>
                     <img  className="apple  apples"  src={Apple} alt="" />
                     
-                </div>
+               
            </div>
         </div>
 
