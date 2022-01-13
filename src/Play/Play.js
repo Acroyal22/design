@@ -21,8 +21,8 @@ const play = () => {
                     </h6>
                 </div>
 				<div className="col-md-5 hide">
-                    <img  src={ play1} className="one" style={{ borderRadius:"35px" }} alt="" />
-                    <img  src={ play2} className="two" style={{ borderRadius:"35px" }} alt=""/>
+                    <img  src={ play1} className="one imgs" style={{ borderRadius:"35px" }} alt="" />
+                    <img  src={ play2} className="two imgs" style={{ borderRadius:"35px" }} alt=""/>
                 </div>
 			</div>
 		</div>

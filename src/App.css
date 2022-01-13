@@ -816,7 +816,7 @@ padding-bottom: 10px;
 	-webkit-transform: rotate(10) scale(1);
 	transform: rotate(0) scale(1);
 } */
-imgs:hover {
+.imgs:hover {
   transform: scale(1.5);
 }
 
