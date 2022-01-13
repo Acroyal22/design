@@ -740,21 +740,30 @@ padding-bottom: 10px;
 
 /* Media query */
 @media screen and (min-width: 0px) and (max-width: 680px) {
-	.body{
-		height: 10px;
-	}
+
+.design{
+overflow: hidden;
+position: relative;
+}.section1{
+	padding-top: 20px;
+	
+}
+.world33small{
+	margin-left: -5px;
+		font-size: 16px;
+}
+.rectangle{
+	font-size: 27px;
+}
 	.world{
-		font-size: 27px;
+		font-size: 25px;
 		margin-left: 140px;
 	}
 
 	.world23{
 		margin-left:50px ;
 	}
-	.world33{
-		margin-left: -5px;
-		font-size: 20px;
-	}
+
 	.hands {
 		font-family: Poppins;
 		font-style: normal;
@@ -767,8 +776,9 @@ padding-bottom: 10px;
 	.radioheadsmall{
 		margin-left: -10px;
 	}
-	.rectangles{
+	.rectanglesmall{
 		margin-left: -150px;
+		font-size: 18px;
 	}
 	.deezersmall{
 		margin-left: -10px;
@@ -778,15 +788,19 @@ padding-bottom: 10px;
 	}
 	.world22{
 		margin-left: -10px;
+		margin-top: 20px;
 	}
 	.wifi{
 		margin-left: -10px;
 	}
 .premiumsmall{
 	margin-left: -10px;
+	
+	font-size: 17px;
 }
 	.worldsmall{
 		margin-left: -10px;
+		font-size: 17px;
 	}
 	.streamssmall{
 		margin-left: -5px;
@@ -857,15 +871,14 @@ padding-bottom: 10px;
   }
 
   .discoversmall{
-    margin-left: 15px;
-   ;
+    margin-left: 1px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 800;
-    font-size: 23px;
+    font-size: 20px;
     line-height: 38px;
     color: #7971e9;
-	margin-top: -10px;
+	margin-top: -90px;
 }
   .music{
     margin-top: 10px;

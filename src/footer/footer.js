@@ -9,7 +9,7 @@ const footer = () => {
             
             </a>
             <p className="text-muted"><img src={shape} alt="" /></p>
-            <small className='smalls '>Copy
+            <small className='smalls getstartedsmall'>Copy
                    Radiohead is the first global music<br/> streaming service with high fidelity sound, <br/> hi-def video quality, along with expertly curated <br/> playlists and original content<br/>  making it a trusted source for music and culture.
             </small>
             </div>
@@ -18,7 +18,7 @@ const footer = () => {
                 <h5 className='section1 '>Get Started</h5>
              
                
-                <ul className="nav flex-column ">
+                <ul className="nav flex-column  ">
                     <li className="nav-item mb-2 "><a href="https://github.com/" className="nav-link p-0 text-muted " ><p style={{ color:"white", fontSize:"20px"  }}> Started</p></a></li>
                     <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"20px"  }}>Playlist Import </p></a></li>
                     <li className="nav-item mb-2"><a href="https://github.com/" className="nav-link p-0 text-muted"><p style={{ color:"white" , fontSize:"20px" }}>Supported Devices</p></a></li>
