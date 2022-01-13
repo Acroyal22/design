@@ -6,7 +6,7 @@ const second = () => {
     <div className= "container-fluid second animate__animated animate__fadeInUpBig animate__slower	3s"style={{ marginTop:"480px"}} >
 			<div className="row">
 				<div className="col-md-6 ">
-                    <h3 className='radiohead radioheads'> Why radiohead? </h3>
+                    <h3 className='radiohead radioheadsmall'> Why radiohead? </h3>
                     <h3 className='world worldd'> 
                         <img src={Rectangle} className='rectangle rectangles'  alt="" /> A world of music in your pocket.
                     </h3>
