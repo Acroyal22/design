@@ -10,21 +10,21 @@ const part = () => {
   return (
     <div className='container-fluid part animate__animated animate__fadeInUpBig animate__slower	3s'>
       <div className='row'>
-          <div className='col-md-7 hide'>
-          <img alt="" src={starboy} className='imgs starboy 'style={{ borderRadius:"10px" }} />
-          <img alt="" src={drake} className='imgs drake' style={{ borderRadius:"10px" }}/>
-          <img alt="" src={susam} className='imgs susam'style={{ borderRadius:"10px" }} />
+          <div className='col-md-7 reves'>
+          <img alt="" src={starboy} className='imgs starboy starboys'style={{ borderRadius:"10px" }} />
+          <img alt="" src={drake} className='imgs drake drakes' style={{ borderRadius:"10px" }}/>
+          <img alt="" src={susam} className='imgs susam susams'style={{ borderRadius:"10px" }} />
           <br/>
-          <img alt="" src={eminem} className='imgs eminem'style={{ borderRadius:"10px" }} />
-          <img alt="" src={smoke} className='imgs smoke' style={{ borderRadius:"10px" }}/>
-          <img alt="" src={Last} className='imgs last' style={{ borderRadius:"10px" }}/>
+          <img alt="" src={eminem} className='imgs eminem eminems'style={{ borderRadius:"10px" }} />
+          <img alt="" src={smoke} className='imgs smoke smokes' style={{ borderRadius:"10px" }}/>
+          <img alt="" src={Last} className='imgs last lasts' style={{ borderRadius:"10px" }}/>
           </div>
-          <div className='col-md-5 revea part-content'>
-            <h1 className='music title-min'>
+          <div className='col-md-5 part-content'>
+            <h1 className='music title-min '>
                 The music you love
             </h1>
             <br/>
-            <small className='small'>
+            <small className='small smallsmall'>
             With over 60 million tracks and tons of exclusive<br/> interviews and videos, TIDAL is here to bring you 
             <br/>
             closer to the artists you listen to.
@@ -35,6 +35,7 @@ const part = () => {
                             <path d="M3.36016 23.5C2.65189 23.5 1.94311 23.2396 1.38933 22.7158C0.244659 21.6313 0.199012 19.8271 1.28701 18.6861L7.68656 11.9801L1.29353 5.32047C0.20152 4.18347 0.241649 2.37926 1.38332 1.29074C2.52548 0.202217 4.3358 0.242699 5.4278 1.3802L13.7069 10.0029C14.7623 11.1024 14.7643 12.8342 13.7134 13.9372L5.43482 22.6139C4.87152 23.2021 4.1176 23.5 3.36016 23.5Z" fill="#7971E9"/>
                 </svg>  &nbsp; More Featured Content
             </h6>
+            <br />
         </div>  
       </div>
     </div>

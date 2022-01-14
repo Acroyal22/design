@@ -13,7 +13,7 @@ const body = () => {
         <div className='row'>
             <div className='col-md-2'></div>
             <div className='col-md-4'>
-                <div className='discover discoversmall'>
+                <div className='discover discovertop'>
                     <h2  className='discover animate__animated animate__fadeInUpBig animate__slower	3s' >
                         Discover, search and
                         play any song featuring voice control.

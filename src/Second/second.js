@@ -3,7 +3,7 @@ import Rectangle from "../image/Rectangle.svg"
 
 const second = () => {
   return (
-    <div className= "container-fluid second animate__animated animate__fadeInUpBig animate__slower	3s"style={{ marginTop:"480px"}} >
+    <div className= "container-fluid second animate__animated animate__fadeInUpBig animate__slower	3s">
 			<div className="row">
 				<div className="col-md-6 ">
                     <h3 className='radiohead radioheadsmall'> Why radiohead? </h3>

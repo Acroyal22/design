@@ -1,6 +1,7 @@
 .head{
 	margin-left: 62px;
 }
+
 .contact {
 	margin-left: 50px;
 	font-family: Poppins;
@@ -129,7 +130,7 @@ padding-bottom: 10px;
 }
 .part {
 	/* position: absolute; */
-	height: 403px;
+	/* height: 403px; */
 	left: 0px;
 	background: #1b262c;
 	box-shadow: inset 0px 30px 20px rgba(26, 26, 26, 0.25);
@@ -266,7 +267,7 @@ padding-bottom: 10px;
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 500;
-	font-size: 23px;
+	font-size: 20px;
 	line-height: 10px;
 
 	color: rgba(249, 248, 255, 0.5);
@@ -295,8 +296,7 @@ padding-bottom: 10px;
 }
 .play {
 	position: absolute;
-	margin-top: 400px;
-	height: 353px;
+	height: 453px;
 	left: 0px;
 	background: #1b262c;
 	box-shadow: inset 0px 30px 20px rgba(26, 26, 26, 0.25);
@@ -340,7 +340,6 @@ padding-bottom: 10px;
 	left: 0.5px;
 	right: -12.5px;
 	top: calc(50% - 24px / 2);
-
 	font-family: Poppins;
 	font-style: normal;
 	font-weight: 800;
@@ -354,7 +353,7 @@ padding-bottom: 10px;
 	left: 1029px;
 	top: 2911px;
 	margin-top: 60px;
-  transition: transform .2s;
+    transition: transform .2s;
 }
 .two {
 	width: 256px;
@@ -366,7 +365,7 @@ padding-bottom: 10px;
 }
 .second {
 	left: 0px;
-	margin-top: 750px;
+	margin-top: 450px;
 	margin-bottom: 75px;
 	padding-bottom: 40px;
 	background: #1b262c;
@@ -740,7 +739,17 @@ padding-bottom: 10px;
 
 /* Media query */
 @media screen and (min-width: 0px) and (max-width: 680px) {
-
+.discoversmall{
+	margin-left: 17px;	
+}
+.streamsmalls {
+	font-size: 16px;
+	margin-left: 17px;
+}
+.smallsmall{
+	font-size: 16px;
+	
+}
 .design{
 overflow: hidden;
 position: relative;
@@ -755,6 +764,9 @@ position: relative;
 .rectangle{
 	font-size: 27px;
 }
+/* .streamssmall{
+	font-size: 16px;
+} */
 	.world{
 		font-size: 25px;
 		margin-left: 140px;
@@ -775,6 +787,7 @@ position: relative;
 	}
 	.radioheadsmall{
 		margin-left: -10px;
+		margin-top: 10px;
 	}
 	.rectanglesmall{
 		margin-left: -150px;
@@ -788,7 +801,7 @@ position: relative;
 	}
 	.world22{
 		margin-left: -10px;
-		margin-top: 20px;
+		margin-top: -50px;
 	}
 	.wifi{
 		margin-left: -10px;
@@ -802,7 +815,7 @@ position: relative;
 		margin-left: -10px;
 		font-size: 17px;
 	}
-	.streamssmall{
+	/* .streamsmall{
 		margin-left: -5px;
 		line-height: 20px;
 		font-family: Poppins;
@@ -810,9 +823,9 @@ position: relative;
 	font-weight: 500;
 	width: 610px;
 	height: 108px;
-	font-size: 20px;
-	}
-	.streams{
+	font-size: 16px;
+	} */
+	/* .streams{
 	width: 610px;
 	height: 108px;
 	margin-left: -5px;
@@ -824,17 +837,19 @@ position: relative;
 	line-height: 20px;
 
 	color: rgba(249, 248, 255, 0.5);
-	}
+	} */
 	.title-min{
 		font-family: Poppins;
 		font-style: normal;
 		font-weight: 500;
-		font-size: 33px;
+		font-size: 40px;
 		line-height: 72px;
 		color: #f9f8ff;
+	
 	}
 	.part-content{
 		display: block !important;
+	
 	}
 	.hide {
 		display: none;
@@ -869,16 +884,41 @@ position: relative;
   .second{
     margin-top: -20px;
   }
-
-  .discoversmall{
+.starboys{
+	height: 120px;
+	width: 120px;
+	margin-left: 10px;
+}
+.drakes{
+	height: 120px;
+	width: 120px;
+}
+.susams{
+	height: 120px;
+	width: 120px;
+}
+.smokes{
+	height: 120px;
+	width: 120px;
+}
+.lasts{
+	height: 120px;
+	width: 120px;
+}
+.eminems{
+	height: 120px;
+	width: 120px;
+	margin-left: 10px;
+}
+  .discovertop{
     margin-left: 1px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 800;
-    font-size: 20px;
-    line-height: 38px;
+    font-size: 30px;
+    line-height: 30px;
     color: #7971e9;
-	margin-top: -90px;
+	margin-top: -20px;
 }
   .music{
     margin-top: 10px;
@@ -886,9 +926,9 @@ position: relative;
   }
   .googles{
     margin-left:40px;
+	
   }/* show it on small screens */
 }
-
 
 
 .mobile-try-btn {
