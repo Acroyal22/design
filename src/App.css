@@ -787,7 +787,7 @@ position: relative;
 	}
 	.radioheadsmall{
 		margin-left: -10px;
-		margin-top: 10px;
+		margin-top: 50px;
 	}
 	.rectanglesmall{
 		margin-left: -150px;
@@ -801,7 +801,8 @@ position: relative;
 	}
 	.world22{
 		margin-left: -10px;
-		margin-top: -50px;
+		margin-top: -10px;
+		font-size: 30px;
 	}
 	.wifi{
 		margin-left: -10px;
@@ -845,8 +846,10 @@ position: relative;
 		font-size: 40px;
 		line-height: 72px;
 		color: #f9f8ff;
+		margin-left: -30px;
 	
 	}
+	
 	.part-content{
 		display: block !important;
 	
@@ -873,13 +876,13 @@ position: relative;
 	
   }
   .apples{
-    margin-left: -83px;
+    margin-left: -99px;
   }
   .part{
 	  /* margin-left: -560px; */
   }
   .trys{
-    margin-left: 22px;
+    margin-left: 2px;
   }
   .second{
     margin-top: -20px;
@@ -922,10 +925,10 @@ position: relative;
 }
   .music{
     margin-top: 10px;
-	margin-left: 20px;
+	margin-left: -10px;
   }
   .googles{
-    margin-left:40px;
+    margin-left:10px;
 	
   }/* show it on small screens */
 }
@@ -974,6 +977,7 @@ position: relative;
 
 .navbar-toggler .navbar-toggler-icon {
   background-image: url(../src/image/toggle.svg) !important;
+  color: #1b262c;
 }
 :root {
   --animate-delay: 2s;

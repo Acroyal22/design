@@ -36,7 +36,7 @@ function navBar() {
   <Navbar.Brand href="https://github.com" > 
          <img alt="" src={shape} className='head' />
       </Navbar.Brand>
-  <Navbar.Toggle aria-controls="responsive-navbar-nav" className='navbar-toggler ' style={{ backgroundColor:'white'}}  />
+  <Navbar.Toggle aria-controls="responsive-navbar-nav" className='navbar-toggler ' style={{ backgroundColor:'#293942'}}  />
   <Navbar.Collapse id="responsive-navbar-nav" >
     <Nav className="me-auto d-flex">
       <Nav.Link href="#features" className=" contact">Contact</Nav.Link>
